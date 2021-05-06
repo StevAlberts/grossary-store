@@ -13,6 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+Route::get('/', 'GrossaryController@index');
+
+Route::get('/cart', 'GrossaryController@cart');
+
+Route::get('/fetch', 'UserController@fetch');
+
+
+
+
