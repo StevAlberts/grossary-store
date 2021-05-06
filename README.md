@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Simple Grossary store UI made with Laravel
+
+## Screenshots
+
+![homepage](https://firebasestorage.googleapis.com/v0/b/stevappsinc.appspot.com/o/Screenshot%202021-05-06%20at%2012.44.05.png?alt=media&token=f1170a8f-f629-4c06-8634-d2e26f1c6ce2)
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
